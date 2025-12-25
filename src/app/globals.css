@@ -68,3 +68,10 @@ button {
 cite{
     font-style: normal;
 }
+.alert-message{
+    padding: min(2rem, 3%);
+    gap: 1.1rem;
+}
+.alert-message p{
+    font-size: clamp(1rem, 2.5vw, 1.5rem);
+}
