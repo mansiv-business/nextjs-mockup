@@ -41,8 +41,9 @@
 }
 .testimonialSection div{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin-top: 8dvh;
+    flex-wrap: wrap;
 
 }
 .testimonialSection span{
