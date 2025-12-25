@@ -38,7 +38,7 @@ const Home = () => {
           </section>
 
           <section className={styles.serviceSection}>
-            <motion.h2 {...fadeIn}>Let Your Business Reach Its Peak Through Our services</motion.h2>
+            <motion.h2 {...fadeIn}>Let Your Business Reach Its Peak Through Our Services</motion.h2>
             <ul>
               <motion.li {...fadeIn}>
                 <img src="/images/magnify.svg" alt="" area-hidden="true" />
@@ -59,13 +59,13 @@ const Home = () => {
           </section>
 
           <section className={styles.aboutSection}>
-            <h2>Some Info about our agency</h2>
-            <motion.p {...fadeIn}>We’re a results-driven digital marketing agency helping Service based businesses grow through SEO, branding, and performance marketi.</motion.p>
+            <h2>Some Information About Our Agency</h2>
+            <motion.p {...fadeIn}>We’re a results-driven digital marketing agency helping service based businesses grow through SEO, branding, and performance marketing.</motion.p>
 
 
-            <p>Our team is active throughout the entire United States to help youreach out anytime</p>
+            <p>Our team is active throughout the entire United States to help you reach out anytime</p>
             <div>
-              <span>Map will be generated from mapbox.com or Google Maps according to your need</span>
+              <span>Map will be generated from mapbox.com or manually according to your need</span>
             </div>
 
           </section>
