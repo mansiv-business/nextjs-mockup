@@ -177,8 +177,8 @@ const Home = () => {
             </ul>
           </section>
         </div>
+        <h3>Premiere Partners</h3>
         <div className={styles.footerPartner}>
-          <h3>Premiere Partners</h3>
           <span>PARTNER1</span><span>PARTNER2</span><span>PARTNER3</span><span>PARTNER4</span>
         </div>
       </footer>
